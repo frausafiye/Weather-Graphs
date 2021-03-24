@@ -1,0 +1,1740 @@
+﻿{
+    "stations": [
+        {
+            "ID": "1228",
+            "Stations-Name": "UFS TW Ems",
+            "GEOGR_BREITE": "54.165071",
+            "GEOGR_LAENGE": "6.346049",
+            "STATIONSHOEHE": "0",
+            "Country": "Germany"
+        },
+        {
+            "ID": "954",
+            "Stations-Name": "UFS Deutsche Bucht",
+            "GEOGR_BREITE": "54.1667",
+            "GEOGR_LAENGE": "7.45",
+            "STATIONSHOEHE": "0",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2115",
+            "Stations-Name": "Helgoland",
+            "GEOGR_BREITE": "54.174957",
+            "GEOGR_LAENGE": "7.891954",
+            "STATIONSHOEHE": "4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3032",
+            "Stations-Name": "List auf Sylt",
+            "GEOGR_BREITE": "55.010987",
+            "GEOGR_LAENGE": "8.412538",
+            "STATIONSHOEHE": "26.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2907",
+            "Stations-Name": "Leck",
+            "GEOGR_BREITE": "54.790294",
+            "GEOGR_LAENGE": "8.951446",
+            "STATIONSHOEHE": "7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4393",
+            "Stations-Name": "Sankt Peter-Ording",
+            "GEOGR_BREITE": "54.327918",
+            "GEOGR_LAENGE": "8.602987",
+            "STATIONSHOEHE": "5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1666",
+            "Stations-Name": "Glücksburg-Meierwik",
+            "GEOGR_BREITE": "54.827321",
+            "GEOGR_LAENGE": "9.505706",
+            "STATIONSHOEHE": "27",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4466",
+            "Stations-Name": "Schleswig",
+            "GEOGR_BREITE": "54.527509",
+            "GEOGR_LAENGE": "9.548637",
+            "STATIONSHOEHE": "42.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2437",
+            "Stations-Name": "Schleswig-Jagel",
+            "GEOGR_BREITE": "54.45696",
+            "GEOGR_LAENGE": "9.520316",
+            "STATIONSHOEHE": "21.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2303",
+            "Stations-Name": "Hohn",
+            "GEOGR_BREITE": "54.314596",
+            "GEOGR_LAENGE": "9.538997",
+            "STATIONSHOEHE": "10",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5930",
+            "Stations-Name": "Schönhagen (Ostseebad)",
+            "GEOGR_BREITE": "54.640978",
+            "GEOGR_LAENGE": "10.023753",
+            "STATIONSHOEHE": "2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2961",
+            "Stations-Name": "Leuchtturm Kiel",
+            "GEOGR_BREITE": "54.499614",
+            "GEOGR_LAENGE": "10.273687",
+            "STATIONSHOEHE": "30.75",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2564",
+            "Stations-Name": "Kiel-Holtenau",
+            "GEOGR_BREITE": "54.376109",
+            "GEOGR_LAENGE": "10.143324",
+            "STATIONSHOEHE": "27",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5516",
+            "Stations-Name": "Fehmarn",
+            "GEOGR_BREITE": "54.528379",
+            "GEOGR_LAENGE": "11.060513",
+            "STATIONSHOEHE": "3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3170",
+            "Stations-Name": "Marienleuchte",
+            "GEOGR_BREITE": "54.49366",
+            "GEOGR_LAENGE": "11.240544",
+            "STATIONSHOEHE": "5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "183",
+            "Stations-Name": "Arkona",
+            "GEOGR_BREITE": "54.67916",
+            "GEOGR_LAENGE": "13.434252",
+            "STATIONSHOEHE": "42",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4024",
+            "Stations-Name": "Putbus",
+            "GEOGR_BREITE": "54.36426",
+            "GEOGR_LAENGE": "13.47709",
+            "STATIONSHOEHE": "39.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1759",
+            "Stations-Name": "Greifswalder Oie",
+            "GEOGR_BREITE": "54.2437",
+            "GEOGR_LAENGE": "13.9102",
+            "STATIONSHOEHE": "12",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3631",
+            "Stations-Name": "Norderney",
+            "GEOGR_BREITE": "53.712302",
+            "GEOGR_LAENGE": "7.151921",
+            "STATIONSHOEHE": "11",
+            "Country": "Germany"
+        },
+        {
+            "ID": "102",
+            "Stations-Name": "Leuchtturm Alte Weser",
+            "GEOGR_BREITE": "53.861708",
+            "GEOGR_LAENGE": "8.126564",
+            "STATIONSHOEHE": "32",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5640",
+            "Stations-Name": "Wittmundhafen",
+            "GEOGR_BREITE": "53.550377",
+            "GEOGR_LAENGE": "7.667164",
+            "STATIONSHOEHE": "8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "701",
+            "Stations-Name": "Bremerhaven",
+            "GEOGR_BREITE": "53.533162",
+            "GEOGR_LAENGE": "8.576083",
+            "STATIONSHOEHE": "7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1200",
+            "Stations-Name": "Elpersbüttel",
+            "GEOGR_BREITE": "54.069133",
+            "GEOGR_LAENGE": "9.010559",
+            "STATIONSHOEHE": "3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "891",
+            "Stations-Name": "Cuxhaven",
+            "GEOGR_BREITE": "53.871254",
+            "GEOGR_LAENGE": "8.705821",
+            "STATIONSHOEHE": "5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3639",
+            "Stations-Name": "Nordholz (Flugplatz)",
+            "GEOGR_BREITE": "53.764673",
+            "GEOGR_LAENGE": "8.658329",
+            "STATIONSHOEHE": "25",
+            "Country": "Germany"
+        },
+        {
+            "ID": "704",
+            "Stations-Name": "Bremervörde",
+            "GEOGR_BREITE": "53.445116",
+            "GEOGR_LAENGE": "9.139039",
+            "STATIONSHOEHE": "10",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2429",
+            "Stations-Name": "Itzehoe",
+            "GEOGR_BREITE": "53.989745",
+            "GEOGR_LAENGE": "9.569639",
+            "STATIONSHOEHE": "21",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4039",
+            "Stations-Name": "Quickborn",
+            "GEOGR_BREITE": "53.733095",
+            "GEOGR_LAENGE": "9.877586",
+            "STATIONSHOEHE": "13",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1975",
+            "Stations-Name": "Hamburg-Fuhlsbüttel",
+            "GEOGR_BREITE": "53.633187",
+            "GEOGR_LAENGE": "9.988085",
+            "STATIONSHOEHE": "11",
+            "Country": "Germany"
+        },
+        {
+            "ID": "6163",
+            "Stations-Name": "Dörnick",
+            "GEOGR_BREITE": "54.165442",
+            "GEOGR_LAENGE": "10.351878",
+            "STATIONSHOEHE": "26.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3897",
+            "Stations-Name": "Pelzerhaken",
+            "GEOGR_BREITE": "54.08932",
+            "GEOGR_LAENGE": "10.877335",
+            "STATIONSHOEHE": "1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3086",
+            "Stations-Name": "Lübeck-Blankensee",
+            "GEOGR_BREITE": "53.802496",
+            "GEOGR_LAENGE": "10.698806",
+            "STATIONSHOEHE": "15.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "596",
+            "Stations-Name": "Boltenhagen",
+            "GEOGR_BREITE": "54.002806",
+            "GEOGR_LAENGE": "11.190772",
+            "STATIONSHOEHE": "15",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4625",
+            "Stations-Name": "Schwerin",
+            "GEOGR_BREITE": "53.642521",
+            "GEOGR_LAENGE": "11.387203",
+            "STATIONSHOEHE": "59",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1694",
+            "Stations-Name": "Goldberg",
+            "GEOGR_BREITE": "53.606015",
+            "GEOGR_LAENGE": "12.103307",
+            "STATIONSHOEHE": "58",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4271",
+            "Stations-Name": "Rostock-Warnemünde",
+            "GEOGR_BREITE": "54.180279",
+            "GEOGR_LAENGE": "12.080806",
+            "STATIONSHOEHE": "4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2796",
+            "Stations-Name": "Laage (Flugplatz)",
+            "GEOGR_BREITE": "53.915597",
+            "GEOGR_LAENGE": "12.278987",
+            "STATIONSHOEHE": "40",
+            "Country": "Germany"
+        },
+        {
+            "ID": "298",
+            "Stations-Name": "Barth",
+            "GEOGR_BREITE": "54.340582",
+            "GEOGR_LAENGE": "12.710828",
+            "STATIONSHOEHE": "3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1757",
+            "Stations-Name": "Greifswald",
+            "GEOGR_BREITE": "54.096736",
+            "GEOGR_LAENGE": "13.405576",
+            "STATIONSHOEHE": "2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5142",
+            "Stations-Name": "Ueckermünde",
+            "GEOGR_BREITE": "53.744431",
+            "GEOGR_LAENGE": "14.069699",
+            "STATIONSHOEHE": "1.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5839",
+            "Stations-Name": "Emden",
+            "GEOGR_BREITE": "53.388079",
+            "GEOGR_LAENGE": "7.228703",
+            "STATIONSHOEHE": "-0.27",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1503",
+            "Stations-Name": "Friesoythe-Altenoythe",
+            "GEOGR_BREITE": "53.064299",
+            "GEOGR_LAENGE": "7.902205",
+            "STATIONSHOEHE": "5.72",
+            "Country": "Germany"
+        },
+        {
+            "ID": "691",
+            "Stations-Name": "Bremen",
+            "GEOGR_BREITE": "53.045015",
+            "GEOGR_LAENGE": "8.797904",
+            "STATIONSHOEHE": "4.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4745",
+            "Stations-Name": "Soltau",
+            "GEOGR_BREITE": "52.9604",
+            "GEOGR_LAENGE": "9.79306",
+            "STATIONSHOEHE": "75.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "368",
+            "Stations-Name": "Bergen",
+            "GEOGR_BREITE": "52.815233",
+            "GEOGR_LAENGE": "9.924809",
+            "STATIONSHOEHE": "70",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1339",
+            "Stations-Name": "Faßberg",
+            "GEOGR_BREITE": "52.915652",
+            "GEOGR_LAENGE": "10.188545",
+            "STATIONSHOEHE": "73",
+            "Country": "Germany"
+        },
+        {
+            "ID": "591",
+            "Stations-Name": "Boizenburg",
+            "GEOGR_BREITE": "53.391084",
+            "GEOGR_LAENGE": "10.687761",
+            "STATIONSHOEHE": "45",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3093",
+            "Stations-Name": "Lüchow",
+            "GEOGR_BREITE": "52.972375",
+            "GEOGR_LAENGE": "11.137388",
+            "STATIONSHOEHE": "17",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4642",
+            "Stations-Name": "Seehausen",
+            "GEOGR_BREITE": "52.891136",
+            "GEOGR_LAENGE": "11.729697",
+            "STATIONSHOEHE": "21",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3196",
+            "Stations-Name": "Marnitz",
+            "GEOGR_BREITE": "53.322288",
+            "GEOGR_LAENGE": "11.931949",
+            "STATIONSHOEHE": "81",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2794",
+            "Stations-Name": "Kyritz",
+            "GEOGR_BREITE": "52.936312",
+            "GEOGR_LAENGE": "12.409342",
+            "STATIONSHOEHE": "40",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5349",
+            "Stations-Name": "Waren (Müritz)",
+            "GEOGR_BREITE": "53.519622",
+            "GEOGR_LAENGE": "12.665404",
+            "STATIONSHOEHE": "72.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3552",
+            "Stations-Name": "Neuruppin",
+            "GEOGR_BREITE": "52.903704",
+            "GEOGR_LAENGE": "12.807205",
+            "STATIONSHOEHE": "38",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5109",
+            "Stations-Name": "Trollenhagen",
+            "GEOGR_BREITE": "53.5997",
+            "GEOGR_LAENGE": "13.3039",
+            "STATIONSHOEHE": "69",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7351",
+            "Stations-Name": "Feldberg/Mecklenburg",
+            "GEOGR_BREITE": "53.317538",
+            "GEOGR_LAENGE": "13.417466",
+            "STATIONSHOEHE": "115.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1869",
+            "Stations-Name": "Grünow",
+            "GEOGR_BREITE": "53.315317",
+            "GEOGR_LAENGE": "13.933754",
+            "STATIONSHOEHE": "55.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "164",
+            "Stations-Name": "Angermünde",
+            "GEOGR_BREITE": "53.031601",
+            "GEOGR_LAENGE": "13.99066",
+            "STATIONSHOEHE": "54",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3254",
+            "Stations-Name": "Meppen",
+            "GEOGR_BREITE": "52.715579",
+            "GEOGR_LAENGE": "7.317629",
+            "STATIONSHOEHE": "19",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3023",
+            "Stations-Name": "Lingen",
+            "GEOGR_BREITE": "52.518093",
+            "GEOGR_LAENGE": "7.308057",
+            "STATIONSHOEHE": "22",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4174",
+            "Stations-Name": "Rheine-Bentlage",
+            "GEOGR_BREITE": "52.288697",
+            "GEOGR_LAENGE": "7.386643",
+            "STATIONSHOEHE": "40",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7374",
+            "Stations-Name": "Ahaus",
+            "GEOGR_BREITE": "52.08141",
+            "GEOGR_LAENGE": "6.940958",
+            "STATIONSHOEHE": "45.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "342",
+            "Stations-Name": "Belm",
+            "GEOGR_BREITE": "52.317028",
+            "GEOGR_LAENGE": "8.169344",
+            "STATIONSHOEHE": "103.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1766",
+            "Stations-Name": "Münster/Osnabrück",
+            "GEOGR_BREITE": "52.13437",
+            "GEOGR_LAENGE": "7.696854",
+            "STATIONSHOEHE": "47.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "963",
+            "Stations-Name": "Diepholz",
+            "GEOGR_BREITE": "52.588104",
+            "GEOGR_LAENGE": "8.342443",
+            "STATIONSHOEHE": "39",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4371",
+            "Stations-Name": "Salzuflen, Bad",
+            "GEOGR_BREITE": "52.104211",
+            "GEOGR_LAENGE": "8.75208",
+            "STATIONSHOEHE": "134.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5715",
+            "Stations-Name": "Wunstorf",
+            "GEOGR_BREITE": "52.46051",
+            "GEOGR_LAENGE": "9.431127",
+            "STATIONSHOEHE": "57",
+            "Country": "Germany"
+        },
+        {
+            "ID": "769",
+            "Stations-Name": "Bückeburg",
+            "GEOGR_BREITE": "52.281732",
+            "GEOGR_LAENGE": "9.088939",
+            "STATIONSHOEHE": "68",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2014",
+            "Stations-Name": "Hannover",
+            "GEOGR_BREITE": "52.464425",
+            "GEOGR_LAENGE": "9.677917",
+            "STATIONSHOEHE": "55",
+            "Country": "Germany"
+        },
+        {
+            "ID": "850",
+            "Stations-Name": "Celle",
+            "GEOGR_BREITE": "52.595933",
+            "GEOGR_LAENGE": "10.029573",
+            "STATIONSHOEHE": "39",
+            "Country": "Germany"
+        },
+        {
+            "ID": "662",
+            "Stations-Name": "Braunschweig",
+            "GEOGR_BREITE": "52.291443",
+            "GEOGR_LAENGE": "10.446456",
+            "STATIONSHOEHE": "81.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5158",
+            "Stations-Name": "Ummendorf",
+            "GEOGR_BREITE": "52.160135",
+            "GEOGR_LAENGE": "11.175899",
+            "STATIONSHOEHE": "162",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1544",
+            "Stations-Name": "Gardelegen",
+            "GEOGR_BREITE": "52.512914",
+            "GEOGR_LAENGE": "11.394131",
+            "STATIONSHOEHE": "47",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3126",
+            "Stations-Name": "Magdeburg",
+            "GEOGR_BREITE": "52.102889",
+            "GEOGR_LAENGE": "11.582678",
+            "STATIONSHOEHE": "76",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1605",
+            "Stations-Name": "Genthin",
+            "GEOGR_BREITE": "52.387515",
+            "GEOGR_LAENGE": "12.160084",
+            "STATIONSHOEHE": "35",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5546",
+            "Stations-Name": "Wiesenburg",
+            "GEOGR_BREITE": "52.120651",
+            "GEOGR_LAENGE": "12.458539",
+            "STATIONSHOEHE": "187",
+            "Country": "Germany"
+        },
+        {
+            "ID": "303",
+            "Stations-Name": "Baruth",
+            "GEOGR_BREITE": "52.061419",
+            "GEOGR_LAENGE": "13.499617",
+            "STATIONSHOEHE": "54.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3987",
+            "Stations-Name": "Potsdam",
+            "GEOGR_BREITE": "52.381287",
+            "GEOGR_LAENGE": "13.062229",
+            "STATIONSHOEHE": "81",
+            "Country": "Germany"
+        },
+        {
+            "ID": "403",
+            "Stations-Name": "Berlin-Dahlem (FU)",
+            "GEOGR_BREITE": "52.453711",
+            "GEOGR_LAENGE": "13.301731",
+            "STATIONSHOEHE": "51",
+            "Country": "Germany"
+        },
+        {
+            "ID": "430",
+            "Stations-Name": "Berlin-Tegel",
+            "GEOGR_BREITE": "52.564412",
+            "GEOGR_LAENGE": "13.308848",
+            "STATIONSHOEHE": "36",
+            "Country": "Germany"
+        },
+        {
+            "ID": "433",
+            "Stations-Name": "Berlin-Tempelhof",
+            "GEOGR_BREITE": "52.467488",
+            "GEOGR_LAENGE": "13.402115",
+            "STATIONSHOEHE": "48",
+            "Country": "Germany"
+        },
+        {
+            "ID": "427",
+            "Stations-Name": "Berlin-Schönefeld",
+            "GEOGR_BREITE": "52.380698",
+            "GEOGR_LAENGE": "13.530609",
+            "STATIONSHOEHE": "46",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3015",
+            "Stations-Name": "Lindenberg",
+            "GEOGR_BREITE": "52.208491",
+            "GEOGR_LAENGE": "14.117973",
+            "STATIONSHOEHE": "98",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5809",
+            "Stations-Name": "Lindenberg (WPR)",
+            "GEOGR_BREITE": "52.209331",
+            "GEOGR_LAENGE": "14.128616",
+            "STATIONSHOEHE": "101",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3158",
+            "Stations-Name": "Manschnow",
+            "GEOGR_BREITE": "52.546827",
+            "GEOGR_LAENGE": "14.545212",
+            "STATIONSHOEHE": "12",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1078",
+            "Stations-Name": "Düsseldorf",
+            "GEOGR_BREITE": "51.295952",
+            "GEOGR_LAENGE": "6.768648",
+            "STATIONSHOEHE": "36.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1303",
+            "Stations-Name": "Essen-Bredeney",
+            "GEOGR_BREITE": "51.404085",
+            "GEOGR_LAENGE": "6.967741",
+            "STATIONSHOEHE": "150",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3098",
+            "Stations-Name": "Lüdenscheid",
+            "GEOGR_BREITE": "51.245158",
+            "GEOGR_LAENGE": "7.642497",
+            "STATIONSHOEHE": "386.7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5480",
+            "Stations-Name": "Werl",
+            "GEOGR_BREITE": "51.576347",
+            "GEOGR_LAENGE": "7.887922",
+            "STATIONSHOEHE": "84.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2483",
+            "Stations-Name": "Kahler Asten",
+            "GEOGR_BREITE": "51.180254",
+            "GEOGR_LAENGE": "8.489068",
+            "STATIONSHOEHE": "839",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3028",
+            "Stations-Name": "Lippspringe, Bad",
+            "GEOGR_BREITE": "51.785459",
+            "GEOGR_LAENGE": "8.838777",
+            "STATIONSHOEHE": "157",
+            "Country": "Germany"
+        },
+        {
+            "ID": "6197",
+            "Stations-Name": "Lügde-Paenbruch",
+            "GEOGR_BREITE": "51.866435",
+            "GEOGR_LAENGE": "9.270852",
+            "STATIONSHOEHE": "258",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5347",
+            "Stations-Name": "Warburg",
+            "GEOGR_BREITE": "51.503989",
+            "GEOGR_LAENGE": "9.111751",
+            "STATIONSHOEHE": "235.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1504",
+            "Stations-Name": "Fritzlar (Flugplatz)",
+            "GEOGR_BREITE": "51.119021",
+            "GEOGR_LAENGE": "9.279907",
+            "STATIONSHOEHE": "172",
+            "Country": "Germany"
+        },
+        {
+            "ID": "15207",
+            "Stations-Name": "Schauenburg-Elgershausen",
+            "GEOGR_BREITE": "51.283452",
+            "GEOGR_LAENGE": "9.358959",
+            "STATIONSHOEHE": "317",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7367",
+            "Stations-Name": "Alfeld",
+            "GEOGR_BREITE": "51.964372",
+            "GEOGR_LAENGE": "9.807151",
+            "STATIONSHOEHE": "143.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1691",
+            "Stations-Name": "Göttingen",
+            "GEOGR_BREITE": "51.500331",
+            "GEOGR_LAENGE": "9.950566",
+            "STATIONSHOEHE": "167",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2925",
+            "Stations-Name": "Leinefelde",
+            "GEOGR_BREITE": "51.393291",
+            "GEOGR_LAENGE": "10.312345",
+            "STATIONSHOEHE": "356",
+            "Country": "Germany"
+        },
+        {
+            "ID": "656",
+            "Stations-Name": "Braunlage",
+            "GEOGR_BREITE": "51.723361",
+            "GEOGR_LAENGE": "10.602134",
+            "STATIONSHOEHE": "607",
+            "Country": "Germany"
+        },
+        {
+            "ID": "722",
+            "Stations-Name": "Brocken",
+            "GEOGR_BREITE": "51.79862",
+            "GEOGR_LAENGE": "10.618265",
+            "STATIONSHOEHE": "1133.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5490",
+            "Stations-Name": "Wernigerode",
+            "GEOGR_BREITE": "51.845421",
+            "GEOGR_LAENGE": "10.768627",
+            "STATIONSHOEHE": "234",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2044",
+            "Stations-Name": "Harzgerode",
+            "GEOGR_BREITE": "51.651998",
+            "GEOGR_LAENGE": "11.136687",
+            "STATIONSHOEHE": "404",
+            "Country": "Germany"
+        },
+        {
+            "ID": "198",
+            "Stations-Name": "Artern",
+            "GEOGR_BREITE": "51.374461",
+            "GEOGR_LAENGE": "11.291977",
+            "STATIONSHOEHE": "164",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2932",
+            "Stations-Name": "Leipzig/Halle",
+            "GEOGR_BREITE": "51.43479",
+            "GEOGR_LAENGE": "12.239622",
+            "STATIONSHOEHE": "131",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2928",
+            "Stations-Name": "Leipzig-Holzhausen",
+            "GEOGR_BREITE": "51.315067",
+            "GEOGR_LAENGE": "12.446226",
+            "STATIONSHOEHE": "138",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5629",
+            "Stations-Name": "Wittenberg",
+            "GEOGR_BREITE": "51.889183",
+            "GEOGR_LAENGE": "12.644523",
+            "STATIONSHOEHE": "105",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2315",
+            "Stations-Name": "Holzdorf (Flugplatz)",
+            "GEOGR_BREITE": "51.765723",
+            "GEOGR_LAENGE": "13.166637",
+            "STATIONSHOEHE": "81",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3811",
+            "Stations-Name": "Oschatz",
+            "GEOGR_BREITE": "51.295965",
+            "GEOGR_LAENGE": "13.092837",
+            "STATIONSHOEHE": "150",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1048",
+            "Stations-Name": "Dresden-Klotzsche",
+            "GEOGR_BREITE": "51.127955",
+            "GEOGR_LAENGE": "13.754338",
+            "STATIONSHOEHE": "227",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1001",
+            "Stations-Name": "Doberlug-Kirchhain",
+            "GEOGR_BREITE": "51.645104",
+            "GEOGR_LAENGE": "13.574676",
+            "STATIONSHOEHE": "96.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7393",
+            "Stations-Name": "Hoyerswerda",
+            "GEOGR_BREITE": "51.449321",
+            "GEOGR_LAENGE": "14.253251",
+            "STATIONSHOEHE": "115.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "880",
+            "Stations-Name": "Cottbus",
+            "GEOGR_BREITE": "51.775983",
+            "GEOGR_LAENGE": "14.316811",
+            "STATIONSHOEHE": "69",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1684",
+            "Stations-Name": "Görlitz",
+            "GEOGR_BREITE": "51.162151",
+            "GEOGR_LAENGE": "14.950565",
+            "STATIONSHOEHE": "238",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1572",
+            "Stations-Name": "Geilenkirchen (Flugplatz)",
+            "GEOGR_BREITE": "50.959253",
+            "GEOGR_LAENGE": "6.039191",
+            "STATIONSHOEHE": "79.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3623",
+            "Stations-Name": "Nörvenich (Flugplatz)",
+            "GEOGR_BREITE": "50.829376",
+            "GEOGR_LAENGE": "6.660172",
+            "STATIONSHOEHE": "111",
+            "Country": "Germany"
+        },
+        {
+            "ID": "15000",
+            "Stations-Name": "Aachen-Orsbach",
+            "GEOGR_BREITE": "50.798281",
+            "GEOGR_LAENGE": "6.02439",
+            "STATIONSHOEHE": "230.99",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3660",
+            "Stations-Name": "Nürburg-Barweiler",
+            "GEOGR_BREITE": "50.360141",
+            "GEOGR_LAENGE": "6.869676",
+            "STATIONSHOEHE": "485",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2667",
+            "Stations-Name": "Köln-Bonn",
+            "GEOGR_BREITE": "50.864559",
+            "GEOGR_LAENGE": "7.157488",
+            "STATIONSHOEHE": "92",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7340",
+            "Stations-Name": "Koblenz (Falckensteinkaserne)",
+            "GEOGR_BREITE": "50.371255",
+            "GEOGR_LAENGE": "7.579139",
+            "STATIONSHOEHE": "84",
+            "Country": "Germany"
+        },
+        {
+            "ID": "603",
+            "Stations-Name": "Bonn-Roleber",
+            "GEOGR_BREITE": "50.734949",
+            "GEOGR_LAENGE": "7.193113",
+            "STATIONSHOEHE": "159",
+            "Country": "Germany"
+        },
+        {
+            "ID": "161",
+            "Stations-Name": "Andernach",
+            "GEOGR_BREITE": "50.423672",
+            "GEOGR_LAENGE": "7.420164",
+            "STATIONSHOEHE": "75",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3167",
+            "Stations-Name": "Marienberg, Bad",
+            "GEOGR_BREITE": "50.662025",
+            "GEOGR_LAENGE": "7.960193",
+            "STATIONSHOEHE": "546.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1639",
+            "Stations-Name": "Gießen/Wettenberg",
+            "GEOGR_BREITE": "50.601706",
+            "GEOGR_LAENGE": "8.643902",
+            "STATIONSHOEHE": "202.7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7396",
+            "Stations-Name": "Hoherodskopf/Vogelsberg",
+            "GEOGR_BREITE": "50.508441",
+            "GEOGR_LAENGE": "9.224703",
+            "STATIONSHOEHE": "743.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7410",
+            "Stations-Name": "Neu-Ulrichstein",
+            "GEOGR_BREITE": "50.75133",
+            "GEOGR_LAENGE": "9.02243",
+            "STATIONSHOEHE": "350.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7368",
+            "Stations-Name": "Eisenach",
+            "GEOGR_BREITE": "51.000728",
+            "GEOGR_LAENGE": "10.362107",
+            "STATIONSHOEHE": "312.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2171",
+            "Stations-Name": "Hersfeld, Bad",
+            "GEOGR_BREITE": "50.851917",
+            "GEOGR_LAENGE": "9.737819",
+            "STATIONSHOEHE": "272.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5371",
+            "Stations-Name": "Wasserkuppe",
+            "GEOGR_BREITE": "50.497345",
+            "GEOGR_LAENGE": "9.942797",
+            "STATIONSHOEHE": "921",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3231",
+            "Stations-Name": "Meiningen",
+            "GEOGR_BREITE": "50.561159",
+            "GEOGR_LAENGE": "10.377105",
+            "STATIONSHOEHE": "450",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4501",
+            "Stations-Name": "Schmücke",
+            "GEOGR_BREITE": "50.654562",
+            "GEOGR_LAENGE": "10.769332",
+            "STATIONSHOEHE": "937",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1270",
+            "Stations-Name": "Erfurt-Weimar",
+            "GEOGR_BREITE": "50.982859",
+            "GEOGR_LAENGE": "10.960808",
+            "STATIONSHOEHE": "316",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3513",
+            "Stations-Name": "Neuhaus am Rennweg",
+            "GEOGR_BREITE": "50.500232",
+            "GEOGR_LAENGE": "11.134394",
+            "STATIONSHOEHE": "845",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4464",
+            "Stations-Name": "Schleiz",
+            "GEOGR_BREITE": "50.567906",
+            "GEOGR_LAENGE": "11.804085",
+            "STATIONSHOEHE": "501",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3821",
+            "Stations-Name": "Osterfeld",
+            "GEOGR_BREITE": "51.087299",
+            "GEOGR_LAENGE": "11.929202",
+            "STATIONSHOEHE": "246",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1612",
+            "Stations-Name": "Gera-Leumnitz",
+            "GEOGR_BREITE": "50.881268",
+            "GEOGR_LAENGE": "12.128858",
+            "STATIONSHOEHE": "311",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3946",
+            "Stations-Name": "Plauen",
+            "GEOGR_BREITE": "50.481883",
+            "GEOGR_LAENGE": "12.130014",
+            "STATIONSHOEHE": "386",
+            "Country": "Germany"
+        },
+        {
+            "ID": "840",
+            "Stations-Name": "Carlsfeld",
+            "GEOGR_BREITE": "50.431326",
+            "GEOGR_LAENGE": "12.611403",
+            "STATIONSHOEHE": "897",
+            "Country": "Germany"
+        },
+        {
+            "ID": "853",
+            "Stations-Name": "Chemnitz",
+            "GEOGR_BREITE": "50.791286",
+            "GEOGR_LAENGE": "12.871977",
+            "STATIONSHOEHE": "418",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1358",
+            "Stations-Name": "Fichtelberg",
+            "GEOGR_BREITE": "50.428346",
+            "GEOGR_LAENGE": "12.953506",
+            "STATIONSHOEHE": "1213",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3166",
+            "Stations-Name": "Marienberg",
+            "GEOGR_BREITE": "50.651004",
+            "GEOGR_LAENGE": "13.14694",
+            "STATIONSHOEHE": "639",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5779",
+            "Stations-Name": "Zinnwald-Georgenfeld",
+            "GEOGR_BREITE": "50.731376",
+            "GEOGR_LAENGE": "13.751594",
+            "STATIONSHOEHE": "877",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2985",
+            "Stations-Name": "Lichtenhain-Mittelndorf",
+            "GEOGR_BREITE": "50.938331",
+            "GEOGR_LAENGE": "14.209276",
+            "STATIONSHOEHE": "321",
+            "Country": "Germany"
+        },
+        {
+            "ID": "6232",
+            "Stations-Name": "Neuheilenbach (NHB)",
+            "GEOGR_BREITE": "50.10966",
+            "GEOGR_LAENGE": "6.548324",
+            "STATIONSHOEHE": "550.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5100",
+            "Stations-Name": "Trier-Petrisberg",
+            "GEOGR_BREITE": "49.747889",
+            "GEOGR_LAENGE": "6.658227",
+            "STATIONSHOEHE": "265",
+            "Country": "Germany"
+        },
+        {
+            "ID": "766",
+            "Stations-Name": "Büchel (Flugplatz)",
+            "GEOGR_BREITE": "50.174627",
+            "GEOGR_LAENGE": "7.059526",
+            "STATIONSHOEHE": "477",
+            "Country": "Germany"
+        },
+        {
+            "ID": "953",
+            "Stations-Name": "Deuselbach",
+            "GEOGR_BREITE": "49.761901",
+            "GEOGR_LAENGE": "7.054121",
+            "STATIONSHOEHE": "480.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5871",
+            "Stations-Name": "Hahn",
+            "GEOGR_BREITE": "49.946242",
+            "GEOGR_LAENGE": "7.264522",
+            "STATIONSHOEHE": "497",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2385",
+            "Stations-Name": "Idar-Oberstein",
+            "GEOGR_BREITE": "49.692727",
+            "GEOGR_LAENGE": "7.326355",
+            "STATIONSHOEHE": "376",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1580",
+            "Stations-Name": "Geisenheim",
+            "GEOGR_BREITE": "49.985931",
+            "GEOGR_LAENGE": "7.954853",
+            "STATIONSHOEHE": "110.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2601",
+            "Stations-Name": "Kleiner Feldberg/Taunus",
+            "GEOGR_BREITE": "50.221815",
+            "GEOGR_LAENGE": "8.446877",
+            "STATIONSHOEHE": "825.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1420",
+            "Stations-Name": "Frankfurt/Main",
+            "GEOGR_BREITE": "50.025911",
+            "GEOGR_LAENGE": "8.521294",
+            "STATIONSHOEHE": "99.7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7341",
+            "Stations-Name": "Offenbach-Wetterpark",
+            "GEOGR_BREITE": "50.090012",
+            "GEOGR_LAENGE": "8.786189",
+            "STATIONSHOEHE": "118.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7412",
+            "Stations-Name": "Neuhütten/Spessart",
+            "GEOGR_BREITE": "50.008254",
+            "GEOGR_LAENGE": "9.423898",
+            "STATIONSHOEHE": "339.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3287",
+            "Stations-Name": "Michelstadt-Vielbrunn",
+            "GEOGR_BREITE": "49.717633",
+            "GEOGR_LAENGE": "9.099689",
+            "STATIONSHOEHE": "453",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5705",
+            "Stations-Name": "Würzburg",
+            "GEOGR_BREITE": "49.770283",
+            "GEOGR_LAENGE": "9.957723",
+            "STATIONSHOEHE": "268",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2597",
+            "Stations-Name": "Kissingen, Bad",
+            "GEOGR_BREITE": "50.224063",
+            "GEOGR_LAENGE": "10.079213",
+            "STATIONSHOEHE": "281.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "867",
+            "Stations-Name": "Lautertal-Oberlauter",
+            "GEOGR_BREITE": "50.306672",
+            "GEOGR_LAENGE": "10.967958",
+            "STATIONSHOEHE": "344.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "282",
+            "Stations-Name": "Bamberg",
+            "GEOGR_BREITE": "49.874176",
+            "GEOGR_LAENGE": "10.920581",
+            "STATIONSHOEHE": "240",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2261",
+            "Stations-Name": "Hof",
+            "GEOGR_BREITE": "50.312236",
+            "GEOGR_LAENGE": "11.876052",
+            "STATIONSHOEHE": "565.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7394",
+            "Stations-Name": "Wunsiedel-Schönbrunn",
+            "GEOGR_BREITE": "50.031525",
+            "GEOGR_LAENGE": "11.974489",
+            "STATIONSHOEHE": "622.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5397",
+            "Stations-Name": "Weiden",
+            "GEOGR_BREITE": "49.666262",
+            "GEOGR_LAENGE": "12.184464",
+            "STATIONSHOEHE": "439.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "460",
+            "Stations-Name": "Berus",
+            "GEOGR_BREITE": "49.264019",
+            "GEOGR_LAENGE": "6.686793",
+            "STATIONSHOEHE": "363",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5029",
+            "Stations-Name": "Tholey",
+            "GEOGR_BREITE": "49.473764",
+            "GEOGR_LAENGE": "7.038578",
+            "STATIONSHOEHE": "385.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4336",
+            "Stations-Name": "Saarbrücken-Ensheim",
+            "GEOGR_BREITE": "49.212803",
+            "GEOGR_LAENGE": "7.107712",
+            "STATIONSHOEHE": "320",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5426",
+            "Stations-Name": "Weinbiet",
+            "GEOGR_BREITE": "49.375835",
+            "GEOGR_LAENGE": "8.121278",
+            "STATIONSHOEHE": "553",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5906",
+            "Stations-Name": "Mannheim",
+            "GEOGR_BREITE": "49.509028",
+            "GEOGR_LAENGE": "8.554076",
+            "STATIONSHOEHE": "96.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4177",
+            "Stations-Name": "Rheinstetten",
+            "GEOGR_BREITE": "48.972621",
+            "GEOGR_LAENGE": "8.330074",
+            "STATIONSHOEHE": "116.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "13674",
+            "Stations-Name": "Waibstadt",
+            "GEOGR_BREITE": "49.294233",
+            "GEOGR_LAENGE": "8.90538",
+            "STATIONSHOEHE": "236.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3362",
+            "Stations-Name": "Mühlacker",
+            "GEOGR_BREITE": "48.97207",
+            "GEOGR_LAENGE": "8.873387",
+            "STATIONSHOEHE": "244",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4931",
+            "Stations-Name": "Stuttgart-Echterdingen",
+            "GEOGR_BREITE": "48.688307",
+            "GEOGR_LAENGE": "9.223535",
+            "STATIONSHOEHE": "371",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4928",
+            "Stations-Name": "Stuttgart (Schnarrenberg)",
+            "GEOGR_BREITE": "48.828188",
+            "GEOGR_LAENGE": "9.200041",
+            "STATIONSHOEHE": "314.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3761",
+            "Stations-Name": "Öhringen",
+            "GEOGR_BREITE": "49.207046",
+            "GEOGR_LAENGE": "9.517492",
+            "STATIONSHOEHE": "275.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3603",
+            "Stations-Name": "Niederstetten",
+            "GEOGR_BREITE": "49.389533",
+            "GEOGR_LAENGE": "9.966643",
+            "STATIONSHOEHE": "473",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2485",
+            "Stations-Name": "Kaisersbach-Cronhütte",
+            "GEOGR_BREITE": "48.917079",
+            "GEOGR_LAENGE": "9.687171",
+            "STATIONSHOEHE": "488.7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7369",
+            "Stations-Name": "Feuchtwangen-Heilbronn",
+            "GEOGR_BREITE": "49.162338",
+            "GEOGR_LAENGE": "10.366172",
+            "STATIONSHOEHE": "475.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5440",
+            "Stations-Name": "Weißenburg-Emetzheim",
+            "GEOGR_BREITE": "49.011554",
+            "GEOGR_LAENGE": "10.93081",
+            "STATIONSHOEHE": "439.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3668",
+            "Stations-Name": "Nürnberg",
+            "GEOGR_BREITE": "49.503031",
+            "GEOGR_LAENGE": "11.054923",
+            "STATIONSHOEHE": "314",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4280",
+            "Stations-Name": "Roth",
+            "GEOGR_BREITE": "49.2164",
+            "GEOGR_LAENGE": "11.1036",
+            "STATIONSHOEHE": "385",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2773",
+            "Stations-Name": "Kümmersbruck",
+            "GEOGR_BREITE": "49.428333",
+            "GEOGR_LAENGE": "11.901613",
+            "STATIONSHOEHE": "417",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4104",
+            "Stations-Name": "Regensburg",
+            "GEOGR_BREITE": "49.042357",
+            "GEOGR_LAENGE": "12.102053",
+            "STATIONSHOEHE": "365.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1587",
+            "Stations-Name": "Gelbelsee",
+            "GEOGR_BREITE": "48.948139",
+            "GEOGR_LAENGE": "11.428914",
+            "STATIONSHOEHE": "536",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7370",
+            "Stations-Name": "Waldmünchen",
+            "GEOGR_BREITE": "49.390904",
+            "GEOGR_LAENGE": "12.683828",
+            "STATIONSHOEHE": "498.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4911",
+            "Stations-Name": "Straubing",
+            "GEOGR_BREITE": "48.827541",
+            "GEOGR_LAENGE": "12.559776",
+            "STATIONSHOEHE": "350",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1832",
+            "Stations-Name": "Großer Arber",
+            "GEOGR_BREITE": "49.113037",
+            "GEOGR_LAENGE": "13.134204",
+            "STATIONSHOEHE": "1436",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5800",
+            "Stations-Name": "Zwiesel",
+            "GEOGR_BREITE": "49.028043",
+            "GEOGR_LAENGE": "13.238493",
+            "STATIONSHOEHE": "615",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1443",
+            "Stations-Name": "Freiburg",
+            "GEOGR_BREITE": "48.023276",
+            "GEOGR_LAENGE": "7.834441",
+            "STATIONSHOEHE": "236.3",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2812",
+            "Stations-Name": "Lahr",
+            "GEOGR_BREITE": "48.364697",
+            "GEOGR_LAENGE": "7.828016",
+            "STATIONSHOEHE": "155",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1468",
+            "Stations-Name": "Freudenstadt",
+            "GEOGR_BREITE": "48.453728",
+            "GEOGR_LAENGE": "8.409057",
+            "STATIONSHOEHE": "796.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2638",
+            "Stations-Name": "Klippeneck",
+            "GEOGR_BREITE": "48.105371",
+            "GEOGR_LAENGE": "8.754878",
+            "STATIONSHOEHE": "973.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3268",
+            "Stations-Name": "Meßstetten",
+            "GEOGR_BREITE": "48.187513",
+            "GEOGR_LAENGE": "8.993829",
+            "STATIONSHOEHE": "920",
+            "Country": "Germany"
+        },
+        {
+            "ID": "4887",
+            "Stations-Name": "Stötten",
+            "GEOGR_BREITE": "48.665709",
+            "GEOGR_LAENGE": "9.864648",
+            "STATIONSHOEHE": "733.8",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2886",
+            "Stations-Name": "Laupheim",
+            "GEOGR_BREITE": "48.217625",
+            "GEOGR_LAENGE": "9.909652",
+            "STATIONSHOEHE": "539",
+            "Country": "Germany"
+        },
+        {
+            "ID": "15444",
+            "Stations-Name": "Ulm-Mähringen",
+            "GEOGR_BREITE": "48.441772",
+            "GEOGR_LAENGE": "9.92161",
+            "STATIONSHOEHE": "592.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2023",
+            "Stations-Name": "Harburg",
+            "GEOGR_BREITE": "48.791799",
+            "GEOGR_LAENGE": "10.706226",
+            "STATIONSHOEHE": "501.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "232",
+            "Stations-Name": "Augsburg",
+            "GEOGR_BREITE": "48.425393",
+            "GEOGR_LAENGE": "10.942011",
+            "STATIONSHOEHE": "461.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3484",
+            "Stations-Name": "Neuburg/Donau (Flugplatz)",
+            "GEOGR_BREITE": "48.709746",
+            "GEOGR_LAENGE": "11.209617",
+            "STATIONSHOEHE": "380",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2905",
+            "Stations-Name": "Lechfeld",
+            "GEOGR_BREITE": "48.184905",
+            "GEOGR_LAENGE": "10.850732",
+            "STATIONSHOEHE": "550",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2829",
+            "Stations-Name": "Landsberg (Flugplatz)",
+            "GEOGR_BREITE": "48.077199",
+            "GEOGR_LAENGE": "10.914394",
+            "STATIONSHOEHE": "621",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2410",
+            "Stations-Name": "Ingolstadt (Flugplatz)",
+            "GEOGR_BREITE": "48.711152",
+            "GEOGR_LAENGE": "11.536237",
+            "STATIONSHOEHE": "364",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5404",
+            "Stations-Name": "Weihenstephan-Dürnast",
+            "GEOGR_BREITE": "48.402499",
+            "GEOGR_LAENGE": "11.694555",
+            "STATIONSHOEHE": "477.1",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3379",
+            "Stations-Name": "München-Stadt",
+            "GEOGR_BREITE": "48.163142",
+            "GEOGR_LAENGE": "11.542922",
+            "STATIONSHOEHE": "515.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3715",
+            "Stations-Name": "Oberschleißheim (Lustheim)",
+            "GEOGR_BREITE": "48.244636",
+            "GEOGR_LAENGE": "11.552548",
+            "STATIONSHOEHE": "484",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1261",
+            "Stations-Name": "Erding",
+            "GEOGR_BREITE": "48.319171",
+            "GEOGR_LAENGE": "11.944008",
+            "STATIONSHOEHE": "459.9",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1262",
+            "Stations-Name": "München-Flughafen",
+            "GEOGR_BREITE": "48.347656",
+            "GEOGR_LAENGE": "11.813275",
+            "STATIONSHOEHE": "445.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7395",
+            "Stations-Name": "Gottfrieding",
+            "GEOGR_BREITE": "48.659626",
+            "GEOGR_LAENGE": "12.538767",
+            "STATIONSHOEHE": "350.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "15191",
+            "Stations-Name": "Isen (ISN)",
+            "GEOGR_BREITE": "48.1747",
+            "GEOGR_LAENGE": "12.10177",
+            "STATIONSHOEHE": "630.27",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3366",
+            "Stations-Name": "Mühldorf",
+            "GEOGR_BREITE": "48.279069",
+            "GEOGR_LAENGE": "12.502379",
+            "STATIONSHOEHE": "405.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5856",
+            "Stations-Name": "Fürstenzell",
+            "GEOGR_BREITE": "48.545146",
+            "GEOGR_LAENGE": "13.353054",
+            "STATIONSHOEHE": "476.4",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1346",
+            "Stations-Name": "Feldberg/Schwarzwald",
+            "GEOGR_BREITE": "47.874893",
+            "GEOGR_LAENGE": "8.003817",
+            "STATIONSHOEHE": "1489.6",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2712",
+            "Stations-Name": "Konstanz",
+            "GEOGR_BREITE": "47.677419",
+            "GEOGR_LAENGE": "9.190052",
+            "STATIONSHOEHE": "442.5",
+            "Country": "Germany"
+        },
+        {
+            "ID": "7403",
+            "Stations-Name": "Leutkirch-Herlazhofen",
+            "GEOGR_BREITE": "47.795509",
+            "GEOGR_LAENGE": "10.032433",
+            "STATIONSHOEHE": "671.7",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2559",
+            "Stations-Name": "Kempten",
+            "GEOGR_BREITE": "47.723259",
+            "GEOGR_LAENGE": "10.334797",
+            "STATIONSHOEHE": "705.2",
+            "Country": "Germany"
+        },
+        {
+            "ID": "3730",
+            "Stations-Name": "Oberstdorf",
+            "GEOGR_BREITE": "47.398578",
+            "GEOGR_LAENGE": "10.275988",
+            "STATIONSHOEHE": "806",
+            "Country": "Germany"
+        },
+        {
+            "ID": "125",
+            "Stations-Name": "Altenstadt",
+            "GEOGR_BREITE": "47.834167",
+            "GEOGR_LAENGE": "10.866723",
+            "STATIONSHOEHE": "756",
+            "Country": "Germany"
+        },
+        {
+            "ID": "5792",
+            "Stations-Name": "Zugspitze",
+            "GEOGR_BREITE": "47.420868",
+            "GEOGR_LAENGE": "10.984724",
+            "STATIONSHOEHE": "2964",
+            "Country": "Germany"
+        },
+        {
+            "ID": "2290",
+            "Stations-Name": "Hohenpeißenberg",
+            "GEOGR_BREITE": "47.800864",
+            "GEOGR_LAENGE": "11.010754",
+            "STATIONSHOEHE": "977",
+            "Country": "Germany"
+        },
+        {
+            "ID": "1550",
+            "Stations-Name": "Garmisch-Partenkirchen",
+            "GEOGR_BREITE": "47.48305",
+            "GEOGR_LAENGE": "11.062293",
+            "STATIONSHOEHE": "719",
+            "Country": "Germany"
+        },
+        {
+            "ID": "856",
+            "Stations-Name": "Chieming",
+            "GEOGR_BREITE": "47.884339",
+            "GEOGR_LAENGE": "12.540379",
+            "STATIONSHOEHE": "551.2",
+            "Country": "Germany"
+        }
+    ]
+}
