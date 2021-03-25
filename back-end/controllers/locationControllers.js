@@ -29,9 +29,9 @@ exports.averageTemps = async(req,res,next)=>{
     let objsOf71= await averages.get("71-00").filter(obj=>obj.Stations_id==id).value()
     let objsOf81= await averages.get("81-10").filter(obj=>obj.Stations_id==id).value()
       let averageTemps={
-      '61-90':objsOf61[0] ? objsOf61[0].Jahr :"0",
-      '71-00':objsOf71[0] ? objsOf71[0].Jahr :"0",
-      '81-10':objsOf81[0] ? objsOf81[0].Jahr :"0"
+      'from61to90':objsOf61[0] ? objsOf61[0].Jahr :"0",
+      'from71to00':objsOf71[0] ? objsOf71[0].Jahr :"0",
+      'from81to10':objsOf81[0] ? objsOf81[0].Jahr :"0"
     }
     res.send({success:true,averages:averageTemps})
   }catch(err){
