@@ -1,5 +1,4 @@
 const express = require("express")
-const mongoose = require("mongoose")
 const cors = require("cors")
 //routes:
 const locationRoutes = require("./routes/locationroutes")
@@ -8,15 +7,9 @@ const locationRoutes = require("./routes/locationroutes")
 const app = express()
 app.use(cors())
 app.use(express.json())
-require('dotenv').config()
 
 //endpoints:
 app.use("/city", locationRoutes)
-
-//connection:
-mongoose.connect(process.env.MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => console.log('connection established'))
-  .catch((err) => console.log(err));
 
 
 //ERROR HANDLING:
@@ -33,6 +26,6 @@ app.use((err, req, res, next) => {
 })
 
 
-app.listen(4000 || process.env.PORT, () => console.log("server is running"))
+app.listen(4000,() => console.log("server is running"))
 
 
